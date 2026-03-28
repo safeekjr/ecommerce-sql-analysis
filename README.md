@@ -32,13 +32,36 @@ End-to-end data analysis project on an Indian e-commerce database using PostgreS
 - Credit card leads payment methods at 31.1%
 - 45% of customers are regular spenders — opportunity for upselling
 - Total revenue of Rs.57,234 across 30 orders
-
 ## Dashboard Preview
+
+### 1. Revenue by City
+Chennai leads all cities with Rs.20,570 in total revenue — more than double Bangalore in second place.
+
 ![Revenue by City](chart1_revenue_by_city.png)
+
+### 2. Top Products by Revenue
+Air Fryer and Mechanical Keyboard are the top revenue products despite fewer orders — price per unit matters more than order count.
+
 ![Top Products](chart2_top_products.png)
+
+### 3. Monthly Revenue Trend
+Revenue shows consistent activity throughout 2024 with no significant drop months.
+
 ![Monthly Trend](chart3_monthly_trend.png)
+
+### 4. Customer Segment Distribution
+45% of customers are regular spenders. Only 5% are VVIP — strong opportunity to move regular customers up the value ladder.
+
 ![Customer Segments](chart4_customer_segments.png)
+
+### 5. Payment Method Breakdown
+Credit card dominates at 31.1% followed closely by UPI at 28.7% — reflecting Indian digital payment trends.
+
 ![Payment Methods](chart5_payment_methods.png)
+
+### Business Summary Dashboard
+Key KPIs at a glance — total revenue, orders, average order value and top performing city.
+
 ![Business Summary](summary_kpi.png)
 
 ## How to Run
